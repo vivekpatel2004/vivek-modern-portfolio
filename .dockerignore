@@ -1,0 +1,12 @@
+.git
+.gitignore
+.dockerignore
+.env
+.env.*
+node_modules
+dist
+coverage
+.vercel
+.vscode
+supabase/.temp
+npm-debug.log*
